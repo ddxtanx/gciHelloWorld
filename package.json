@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Sugar Labs Google Code In Hello World project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddxtanx/gciHelloWorld.git"
+  },
+  "author": "Garrett Credi (ddxtanx)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddxtanx/gciHelloWorld/issues"
+  },
+  "homepage": "https://github.com/ddxtanx/gciHelloWorld#readme"
+}
